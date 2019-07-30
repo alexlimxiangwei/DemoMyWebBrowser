@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Demo My Web Browser</string>
+    <string name="url">load url</string>
+</resources>
